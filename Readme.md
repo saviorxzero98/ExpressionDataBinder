@@ -77,7 +77,7 @@ string outText1 = result1.Value;
 
 * **Use Custom Function**
 
-```json
+```c#
 // Using
 using ExpressionDataBinder.Binders;
 
