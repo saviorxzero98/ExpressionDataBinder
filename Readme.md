@@ -118,8 +118,6 @@ string outText1 = result1.Value;
 
 * **字串處理 (String)**
 
-* 
-
 | Function                                                     | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | `text.exact('{textA}', '{textB}', {ignoreCase}?, {ignoreWidth}?)` | 檢查文字是否相等<br />‧ `textA`： 文字A<br />‧ `textB`： 文字B<br />‧ `ignoreCase`： 是否忽略大小寫 (可選參數)<br />‧ `ignoreWidth`： 是否忽略全形半形(可選參數) |
